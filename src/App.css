@@ -58,6 +58,14 @@ h1{
   flex-wrap: wrap;
 
 }
+.search{
+  text-align: center;
+  margin-left: 25%;
+  padding: 15px;
+  width: 50%;
+  border-radius: 20px;
+  font-size: 20px;
+}
 
 .product {
   text-align: center;
