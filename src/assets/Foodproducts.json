@@ -1,35 +1,35 @@
 [
         {
             "id":1,
-            "image":"./src/assets/friedchicken.jpg",
+            "image":"/src/assets/friedchicken.jpg",
             "name":"Fried Chicken",
             "rate":"100 Rs"
     
         },
         {
             "id":2,
-            "image":"./src/assets/Dosa.jpg",
+            "image":"/src/assets/Dosa.jpg",
             "name":"Dosa",
             "rate":"80 Rs"
     
         },
         {
             "id":3,
-            "image":"./src/assets/KFCchicken.jpg",
+            "image":"/src/assets/KFCchicken.jpg",
             "name":"KFCChicken",
             "rate":"150 Rs"
     
         },
         {
             "id":4,
-            "image":"./src/assets/Noodles.jpg",
+            "image":"/src/assets/Noodles.jpg",
             "name":"Noodles",
             "rate":"130 Rs"
     
         },
         {
             "id":5,
-            "image":"./src/assets/Pasta.jpg",
+            "image":"/src/assets/Pasta.jpg",
             "name":"Pasta",
             "rate":"120 Rs"
     
