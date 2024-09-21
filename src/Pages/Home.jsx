@@ -1,5 +1,5 @@
 import React from 'react'
-import data from "../assets/Foodproducts.json"
+import data from "../assets/products.json"
 import Product from './Product';
 import { useState } from 'react';
 
@@ -12,7 +12,7 @@ const Home = ({ cart, setcart}) => {
 
   return (
     <>
-      <h1>Food Varieties</h1>
+      <h1>Collections</h1>
       <input  className="search" placeholder="Search" type='search' value={search} onChange={(e) => setsearch(e.target.value)}></input>
       <div className='productcontainer'>
         {products.filter((product)=>(product.name.toLowerCase().includes(search.toLowerCase())))

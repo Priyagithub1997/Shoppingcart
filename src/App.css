@@ -7,15 +7,19 @@
   background-color: lightblue;
   color: white;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 20px;
   font-size: 20px;
   font-weight: bold;
+
+  width: 100%;
+  margin-bottom: 20px;
 }
 
 .navlogo {
   margin-left: 10px;
   color: darkblue;
+  font-size: 25px;
 }
 
 .navlist ul {
@@ -108,7 +112,7 @@ h1{
 .remove {
   padding: 5px 15px;
   text-align: center;
-  background-color: red;
+  background-color: orange;
   color: white;
   cursor: pointer;
   outline: none;
@@ -118,7 +122,8 @@ h1{
 
 .viewcartcontainer {
   margin-left: 20px;
-  margin-top: 20px;
+  
+ 
 
 
 
@@ -142,12 +147,14 @@ h1{
   margin-left: 20%;
 
   width: 50%;
+ 
 
 
 }
 
 .viewcart img {
   border-radius: 20px;
+  margin-top: 20px;
 }
 
 .viewcartdetails {
