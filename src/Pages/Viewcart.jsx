@@ -25,7 +25,7 @@ const Viewcart = ({ cart, setcart }) => {
 
       <div className='viewcartcontainer'>
         {cart.map((product) => (
-          <div className='viewcart'>
+          <div key={product.id} className='viewcart'>
             <div className='Viewcartimage'>
               <img src={product.image} alt='' height="150px" width="150px"></img>
             </div>

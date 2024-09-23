@@ -1,0 +1,55 @@
+{
+    "data":
+    [
+    {
+        "id":1,
+        "image":"/src/assets/blackshirt.jpg",
+        "name":"Black Shirt",
+        "rate":"500 Rs"
+
+    },
+    {
+        "id":2,
+        "image":"/src/assets/Coat(2).jpg",
+        "name":"Coat",
+        "rate":"850 Rs"
+
+    },
+    {
+        "id":3,
+        "image":"/src/assets/Coat.jpg",
+        "name":"coat",
+        "rate":"750 Rs"
+
+    },
+    {
+        "id":4,
+        "image":"/src/assets/ladieswhiteshirt.jpg",
+        "name":"Ladies Whiteshirt",
+        "rate":"530 Rs"
+
+    },
+    {
+        "id":5,
+        "image":"/src/assets/pants.jpg",
+        "name":"Pants",
+        "rate":"520 Rs"
+
+    },
+    {
+        "id":6,
+        "image":"/src/assets/whiteTshirt.jpg",
+        "name":"White Tshirt",
+        "rate":"620 Rs"
+
+    },
+    {
+        "id":7,
+        "image":"/src/assets/whiteshirt.jpg",
+        "name":"White Shirt",
+        "rate":"600 Rs"
+
+    }
+]
+}
+
