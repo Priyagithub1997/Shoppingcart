@@ -5,7 +5,7 @@ const Viewcart = ({ cart, setcart }) => {
 
 
   const removefromcart = (product) => {
-    
+
     setcart(cart.filter((c) => (c.id !== product.id)));
   }
 
@@ -33,11 +33,11 @@ const Viewcart = ({ cart, setcart }) => {
               <p>{product.name}</p>
               <p>{product.rate}</p>
 
-              <button onClick={()=>removefromcart(product)} className='remove'>Remove from Cart</button>
+              <button onClick={() => removefromcart(product)} className='remove'>Remove from Cart</button>
 
 
             </div>
-          
+
 
           </div>
 

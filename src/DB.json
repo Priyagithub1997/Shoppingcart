@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "blackshirt.jpg",
+        "name": "Black Shirt",
+        "rate": "500 Rs"
+    },
+    {
+        "id": 2,
+        "image": "coat.jpg",
+        "name": "Coat",
+        "rate": "850 Rs"
+    },
+    {
+        "id": 3,
+        "image": "coat(2).jpg",
+        "name": "Coat",
+        "rate": "750 Rs"
+    },
+    {
+        "id": 4,
+        "image": "ladieswhiteshirt.jpg",
+        "name": "Ladies Whiteshirt",
+        "rate": "530 Rs"
+    },
+    {
+        "id": 5,
+        "image": "pants.jpg",
+        "name": "Pants",
+        "rate": "520 Rs"
+    },
+    {
+        "id": 6,
+        "image": "whiteTshirt.jpg",
+        "name": "White Tshirt",
+        "rate": "620 Rs"
+    },
+    {
+        "id": 7,
+        "image": "whiteshirt.jpg",
+        "name": "White Shirt",
+        "rate": "600 Rs"
+    }
+]

@@ -5,7 +5,7 @@ const Product = ({ product, cart, setcart }) => {
   const addtocart = (e) => {
     e.preventDefault();
     setcart([...cart, product]);
-  
+
 
 
   }
