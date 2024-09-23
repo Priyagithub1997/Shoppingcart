@@ -1,8 +1,8 @@
 
 import './App.css'
-import Header from './Pages/Header.jsx'
-import Home from './Pages/Home.jsx'
-import Viewcart from "./Pages/Viewcart.jsx"
+import Header from './Header.jsx'
+import Home from './Home.jsx'
+import Viewcart from "./Viewcart.jsx"
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
